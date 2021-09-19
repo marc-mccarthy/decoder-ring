@@ -1,0 +1,15 @@
+{
+  "name": "decoder-ring",
+  "version": "1.0.0",
+  "description": "Decoder-Ring project",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.1"
+  }
+}
